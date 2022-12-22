@@ -1,0 +1,53 @@
+.block1 {
+    background-color: #FF7100;
+}
+
+.block2 {
+    background-color: #FFB471;
+}
+
+.block3 {
+    background-color: #A84A00;
+}
+
+.bloc {
+    width: 50px;
+    height: 50px;
+    margin: 2px;
+}
+
+.container {
+    border: 2px solid black;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: row;
+}
+/* deuxieme cadre */
+.blocka{
+background-color: rgb(177, 170, 170);
+
+}
+
+.blockb{
+    background-color: rgb(121, 118, 118);
+
+    }
+
+.blockc{
+background-color: rgb(56, 55, 55);
+
+}
+
+.blockd{
+    background-color: rgb(12, 12, 12);
+
+    }
+
+.container2{
+    display: flex;
+    flex-direction: row;
+}
+
+/* troisieme cadre avec gride */
